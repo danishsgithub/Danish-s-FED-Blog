@@ -1,2 +1,10 @@
 # Danish-s-FED-Blog
-Hello test
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Week 2 Blog</h1>
+    </body>
+
+</html>
