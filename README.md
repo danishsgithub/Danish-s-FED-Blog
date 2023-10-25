@@ -11,7 +11,6 @@
             CSS is used for the design of the website. It deals with the colour,size and position. Whilst html deals with the structure and content of the website.
             <br>
             A important CSS Rule is 'selector { property: value;}' .
-
         </p>
     </body>
 
